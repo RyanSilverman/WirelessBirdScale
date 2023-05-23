@@ -21,4 +21,4 @@ When contributing to this project please do the following: <br>
 All contributions must adhere to the Creative Commons Legal Code licence that covers the rest of the project which can be found in the [License](#LICENSE) file.
 
 ## Code of Conduct
-Please make sure you follow the required [Code of Conduct](#CODE_OF_CONDUCT.md) for this repository.
+Please make sure you follow the required [Code of Conduct](CODE_OF_CONDUCT.md) for this repository.
