@@ -44,6 +44,7 @@ The prupose of this components was for the researcher to be able to uniquely ide
 The File Monitoring component utilizes a Python script which monitors the size of the data directory of this project. If the size of the folder exceeds a maximum threshold, the oldest time-stamped files will be continously deleted until the threshold is no longer exceeded.
 
 ## Contributing
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md) <br>
 I welcome contributions to this repository! If you would like to contribute, please follow the guidelines outlined in the [CONTRIBUTING.md](CONTRIBUTING.md) file. Contributions can include bug fixes, feature enhancements, documentation improvements, or additional functionalities.
 
 ## License
